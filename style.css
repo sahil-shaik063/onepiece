@@ -1,0 +1,54 @@
+img{
+    float:left;
+}
+footer{
+    clear:left;
+}
+div>img{
+  height:300px;
+  width:400px;
+}
+.op{
+    height:300px;
+    width:500px;
+    border:solid black;
+    border-width: 10px;
+    float:left;
+}
+.logo{
+    height:300px;
+    width:300px;
+    border:solid black;
+    border-width: 10px;
+    float:right;
+}
+div{
+    background-color: black;
+}
+h1{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    clear :both;
+    text-align: center;
+
+}
+.char{
+    text-align:left;
+}
+p{
+    font-size: 30px;
+}
+
+div>div{
+    background-color:black;
+}
+div>div>p,div>div>h3{
+    color:white;
+}
+div>footer>p{
+    font-size:30px;
+}
